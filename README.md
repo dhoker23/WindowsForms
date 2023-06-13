@@ -1,5 +1,5 @@
 # Проект windows forms с методички
-
+Проект по изучению интерфеса программирования Windows Forms с методичкой.
 ## Теория
 [Методический материал](https://www.ncfu.ru/export/uploads/imported-from-dle/op/doclinks2017/23_Metod_PnaYVUKPLR_11.03.02.pdf)
 ## Пример работы программы
